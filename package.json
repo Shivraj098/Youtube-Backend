@@ -1,0 +1,15 @@
+{
+  "name": "chai-code-youtube",
+  "version": "1.0.0",
+  "description": "backend for youtube ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "src/index.js"
+  },
+  "author": "Shivraj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
